@@ -113,5 +113,6 @@
 ## 8.SPA（单页面应用）的简单实现
 
   - 一是处理#后面的字符， 
-  - 二是局部刷新。  
+  - 二是局部刷新。 
+  - [详情](https://blog.csdn.net/u011032902/article/details/54730739?utm_source=itdadao&utm_medium=referral) 
 
